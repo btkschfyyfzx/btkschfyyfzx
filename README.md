@@ -1,6 +1,6 @@
-![](https://visitor-badge.glitch.me/badge?page_id=btkschfyyfzx.readme)
 
-![](http://antzuhl.cn:4000/get/@btkschfyyfzx.readme)
+
+![](http://antzuhl.cn:4000/get/@antzuhl.readme)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=btkschfyyfzx&show_icons=true&theme=radical)
 
@@ -17,3 +17,5 @@
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+![](https://visitor-badge.glitch.me/badge?page_id=btkschfyyfzx.readme)
